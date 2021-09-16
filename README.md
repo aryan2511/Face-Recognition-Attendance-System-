@@ -1,6 +1,6 @@
 # Face-Recognition-Attendance-System-
 A simple project using Python on face recognition 
-In this projet we will be using python open cv and xlwrite 
+In this project we will be using python open cv and xlwrite 
 
 here open cv helps capture the faces of students 1 at a time 
 it can be done roll no. wise 
